@@ -1,6 +1,4 @@
-obj/*
-bin/*
-obj
 bin
+obj
 appsettings.json
 *.db
